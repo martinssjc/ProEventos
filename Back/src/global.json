@@ -1,0 +1,11 @@
+{
+  "sdk": {
+    "version": "5.0.404"
+  }
+
+    // dotnet --version                                         versão atual
+    // dotnet --info
+    // dotnet --list-sdks                                       ver todas versões
+    // dotnet new globaljson --sdk-version 5.0.404 --force      cria arquivo GLOBAL.JSON
+
+}
